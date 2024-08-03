@@ -1,5 +1,6 @@
 # MCC RECREATION Team
----
+
+> This no longer exists basically.
 
 Some videos and links:
 * [What is MCC (Minecraft Championship)?](https://noxcrew.com/mcc)
